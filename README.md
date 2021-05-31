@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cryptosis-cmd
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning html.c++,SQL,
+- 🌱 I’m currently learning html.c++,SQL,python
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me yp.gkinis@gmail.com
 
